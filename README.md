@@ -2,3 +2,7 @@
 Group Members: Simon, Brian, Katherine, Sarah
 
 First Meeting: 5/3 1-2pm
+
+Topic: Ukraine-Russia War Equipment Losses
+
+
