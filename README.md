@@ -1,5 +1,7 @@
 # Equipment Losses in the Ukraine-Russia War
-Group Members: Simon, Brian, Katherine, Sarah
+Group Members: Simon, Brian, Katherine, Sarah 
+
+TA: Akshita Gundavarapu (BG)
 
 First Meeting: 05/03/23
 
@@ -13,7 +15,7 @@ First Meeting: 05/03/23
 
 * Final double check (All)
 
-<hr style="border:1px solid black">
+<hr style="border:1px solid grey">
 
 ### Abstract
 
@@ -33,8 +35,7 @@ Data visualization, Misinformation, Conflict, Welfare, Public-Health
 
 In the midst of the Ukraine-Russian war that is still on-going until today, there has been a lot of news delivered about the impact and the deteriorating consequences from each side. However, it is hard sometimes for the general public to get a grasp of what is the most up-to-date data and information of the losses on equipment, personnel, and so forth to interpret the weight of the impact on each party. Hence, it is easy to develop bias based on which media sources that you obtain the information about the war from. Our group is interested in displaying a transparent data set of the losses of equipments from Russia and compare the numbers between both parties.
 
-### Related Work  (Simon)
-> Describe your topic and related work in this space. You must include three citations to related work (URLs to similar work, high-quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words).
+### Related Work
 
 The dataset aggregates equipment losses over time from both sides of the Russia-Ukraine war. Through our research and our specific focus on visualizing those losses, we want to make transparent the war's impact on both parties. In doing so, we aim to put to scale the intensity of the war and compare/contrast the equipment losses to the overall sizes of both armies. Within this space, we have combed through many related datasets and articles (both in Russian and English) to match figures to the conflict. We are aware of the challenges and limitations that afflict war-related loss reporting and aim to make conservative estimates about the scale of these losses. Our long-term goals from this analysis are to put into fiscal terms the impact of these equipment losses, and to potentially elaborate on this figure with information about runway and resource management from both sides. Our dataset is sourced from Kaggle ([Russia-Ukraine Equipment Losses 2022](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russia-war-equipment-losses-oryx)), and was compiled from daily reports by Petro Ivaniuk, a data scientist from Lviv, Ukraine. To gain perspective and to further the effectiveness of our research, we are utilizing a variety of different articles. This article from the Wall Street Journal ([Russia Likely Lost More Than Half...](https://www.wsj.com/articles/russia-likely-lost-more-than-half-of-its-tanks-in-ukraine-estimates-show-c23dabc2)), and this article from Oryx ([Attack On Europe: Documenting Russian Equipment Losses](https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html)) accomplish a similar goal and provide useful information.
 
