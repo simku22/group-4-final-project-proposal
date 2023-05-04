@@ -65,17 +65,14 @@ There are 18 columns
 
 We have to be considerate of the estimates associated with the data as there are potential biases for both sides of the conflict. As the author(s) of the dataset are Ukrainian, we have to be liberal with our estimates of both Russian and Ukrainian losses so as to reduce bias. We are actively counteracting this by using a dataset that features high quality digital images of the specific equipment in the dataset (some many thousands of photos). As for questions of power, 
 
-> What are possible limitations or problems with this data? (at least 200 words)
-The 
+### Implications 
 
-### 4. Implications (Brian)
-> Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
-	Throughout the war between Russia and Ukraine, there have been countless reports on the impacts of the war both economically and politically. From our research, we hope to shed light on how accurate the media has depicted the destruction that has occurred as a result of the Russia-Ukraine war. Utilizing our dataset that includes data of equipment losses, we will form an understanding of how both sides of the Russia-Ukraine war have suffered economically. Considering that the war has fallen out of the media’s eye, our research may also bring forth how exactly the war has been impacting both of the countries recently. In comparison to the information that is spread by the news, our research may reveal some misinformation and unreliability that has been widespread to create propaganda about the reality of how the war is truly going. We hope to bring awareness to not only the catastrophes of this war, but also to the problem of misinformation that occurs in the media. 
+Throughout the war between Russia and Ukraine, there have been countless reports on the impacts of the war both economically and politically. From our research, we hope to shed light on how accurate the media has depicted the destruction that has occurred as a result of the Russia-Ukraine war. Utilizing our dataset that includes data of equipment losses, we will form an understanding of how both sides of the Russia-Ukraine war have suffered economically. Considering that the war has fallen out of the media’s eye, our research may also bring forth how exactly the war has been impacting both of the countries recently. In comparison to the information that is spread by the news, our research may reveal some misinformation and unreliability that has been widespread to create propaganda about the reality of how the war is truly going. We hope to bring awareness to not only the catastrophes of this war, but also to the problem of misinformation that occurs in the media. 
 
+### Challenges & Limitations 
 
-
-
-### 5. Challenges & Limitations  (Sarah)
-> What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words) 
 Our biggest limitation and challenge from this project is the unreliability of our data set and information. Due to our topic being about a war that is still occuring today, it is important to remember that both sides are unlikely to report all their losses. The data set also only includes the number of equipment losses that have photo or videographic evidence. Meaning that the total number of destruction is much higher than recorded. Another difficulty we must acknowledge during this report is our lack of access to all the data and information being used as a communication source for this war. This is due to multiple barriers such as language and lack of accessibility to online resources. There are various online applications that are being used to spread awareness and quick information that we do not know about, have access to, nor have the capabilities to read in that language.
+
+> What are possible limitations or problems with this data? (at least 200 words)
+TO-DO: Add a second paragraph talking about the data specifically.
 
