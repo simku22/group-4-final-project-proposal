@@ -1,7 +1,9 @@
-# Ukraine-Russia Conflict: Equipment Losses
+# Equipment Losses in the Ukraine-Russia War
 Group Members: Simon, Brian, Katherine, Sarah
 
-First Meeting: 5/3 1-2pm
+First Meeting: 05/03/23
+
+<hr style="border:1px solid black">
 
 ### Abstract
 
