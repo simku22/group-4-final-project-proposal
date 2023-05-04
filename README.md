@@ -3,6 +3,16 @@ Group Members: Simon, Brian, Katherine, Sarah
 
 First Meeting: 05/03/23
 
+### TO-DO's:
+
+* Finish challenges and limitations section (Sarah)
+
+* Add or remove a research question (Katherine)
+
+* Add or remove a word or two to the Implications secton (Brian)
+
+* Final double check (All)
+
 <hr style="border:1px solid black">
 
 ### Abstract
@@ -43,13 +53,13 @@ The main data sources are Armed Forces of Ukraine and Ministry of Defence of Ukr
 
 Additional Sources:
 
-* https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html
+* [Oryxspioenkop.com](https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html)
 
-* https://liveuamap.com/
+* [LiveUaMap.com](https://liveuamap.com/)
 
-* https://correctiv.org/en/latest-stories/2022/03/01/sanctions-tracker-live-monitoring-of-all-sanctions-against-russia/
+* [Correctiv.org](https://correctiv.org/en/latest-stories/2022/03/01/sanctions-tracker-live-monitoring-of-all-sanctions-against-russia/)
 
-* https://www.nytimes.com/interactive/2022/03/23/world/europe/ukraine-civilian-attacks.html
+* [NYTimes.com](https://www.nytimes.com/interactive/2022/03/23/world/europe/ukraine-civilian-attacks.html)
 
 #### Why was the data collected?
 
@@ -61,11 +71,17 @@ There are two datasets in our data, both have about 350 rows (days) of observati
 
 #### How many features (columns) are in the data?
 
-There are 18 columns
+There are 18 columns.
 
 #### What, if any, ethical questions or questions of power do you need to consider when working with this data?
 
-We have to be considerate of the estimates associated with the data as there are potential biases for both sides of the conflict. As the author(s) of the dataset are Ukrainian, we have to be liberal with our estimates of both Russian and Ukrainian losses so as to reduce bias. We are actively counteracting this by using a dataset that features high quality digital images of the specific equipment in the dataset (some many thousands of photos). As for questions of power, 
+We have to be considerate of the estimates associated with the data as there are potential biases for both sides of the conflict. As the author(s) of the dataset are Ukrainian, we have to be liberal with our estimates of both Russian and Ukrainian losses so as to reduce bias. We are actively counteracting this by using a dataset that features high quality digital images of the specific equipment in the dataset (some many thousands of photos). As for questions of power, we want to understand more about the systems and governments involved in the conflict:
+
+* Who has control over the data reported in the dataset? By what means can they control or alter the results of the dataset and its validity?
+
+* Where is our data sourced from? Is that source reliable, and can we trust the institution it comes from?
+
+* What does the differences (if any) between the two datasets (Ukraine and Russia) tell us about the way the data was sourced or collected?
 
 ### Implications 
 
